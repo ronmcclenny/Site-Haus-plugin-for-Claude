@@ -1,0 +1,14 @@
+{
+  "name": "site-haus",
+  "description": "Site Haus for Claude: build websites and WordPress themes, and run agency work.",
+  "owner": {
+    "name": "Site Haus"
+  },
+  "plugins": [
+    {
+      "name": "site-haus",
+      "source": "./",
+      "description": "Connects Claude to your Site Haus account and teaches it how to build, check and publish sites, write proposals and work through agency tasks."
+    }
+  ]
+}
