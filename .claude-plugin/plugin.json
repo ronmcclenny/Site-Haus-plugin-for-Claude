@@ -6,6 +6,7 @@
     "name": "Site Haus",
     "url": "https://sitehaus.agency"
   },
+  "privacyPolicyUrl": "https://sitehaus.agency/privacy",
   "icon": "icon.png",
   "homepage": "https://sitehaus.agency/docs/build/connect-your-own-ai",
   "repository": "https://github.com/ronmcclenny/Site-Haus-plugin-for-Claude",
