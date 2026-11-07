@@ -13,7 +13,7 @@ A free Site Haus account works. Using your own Claude never uses Site Haus credi
 ## Install in Claude Code
 
 ```
-claude plugin marketplace add <your-github-user>/<this-repo>
+claude plugin marketplace add ronmcclenny/Site-Haus-plugin-for-Claude
 claude plugin install site-haus@site-haus
 ```
 
