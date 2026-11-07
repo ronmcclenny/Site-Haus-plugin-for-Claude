@@ -1,0 +1,13 @@
+{
+  "name": "site-haus",
+  "version": "1.0.0",
+  "description": "Build WordPress themes, websites and web apps, write client proposals and work through agency tasks in your Site Haus account, from Claude.",
+  "author": {
+    "name": "Site Haus",
+    "url": "https://sitehaus.agency"
+  },
+  "homepage": "https://sitehaus.agency/docs/build/connect-your-own-ai",
+  "repository": "https://github.com/ronmcclenny/Site-Haus-plugin-for-Claude",
+  "license": "MIT",
+  "keywords": ["wordpress", "website", "theme", "agency", "proposals", "site-haus"]
+}
