@@ -1,4 +1,4 @@
-# Site Haus for Claude
+# Site Haus Agency for Claude
 
 Connects Claude to your [Site Haus](https://sitehaus.agency) account, and teaches it how to use it.
 
